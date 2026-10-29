@@ -34,12 +34,6 @@
 | [**MétéoVue (App-bureau)**](https://github.com/ahmatmahamatoumar076-lgtm/App-bureau) | Application de bureau de prévisions météo en temps réel pour n'importe quelle ville |
 | [**riyadgroupe**](https://github.com/ahmatmahamatoumar076-lgtm/riyadgroupe) | Projet de l'entreprise ETS RIYAD |
 
-### 📊 Statistiques GitHub
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ahmatmahamatoumar076-lgtm&show_icons=true&theme=tokyonight&locale=fr" alt="Statistiques GitHub" />
-</p>
-
 ---
 
 <p align="center"><i>« Apprendre, construire, partager. »</i></p>
